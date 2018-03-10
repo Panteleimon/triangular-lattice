@@ -1,5 +1,5 @@
 
-
+Check 'triangular lattice.png' after taking a quick look at the code
 
 
 
